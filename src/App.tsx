@@ -34,7 +34,7 @@ const App: React.FC = () => {
         {/* <NavLink to="/second">Заметки</NavLink> */}
         <NavLink to="/random">Рандом</NavLink>
 
-        {/* <select className="selectLang" defaultValue={"es"}>
+        {/* <select className="select!Lang" defaultValue={"es"}>
         {LANGUAGES.map(({ code, label }) => (
           <option key={code} value={code}>
             {label}
