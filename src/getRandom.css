@@ -1,0 +1,41 @@
+.questions{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+}
+.questions label{
+    float: left;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 28px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+.questions h2{
+    margin-left: 10px;
+}
+.container input{
+    width:auto;
+    height: auto;
+}
+.getName{
+    resize: both;
+}
+.dynamic-div {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+.output{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: auto;
+    flex-wrap: wrap;
+}
+.cardName{
+    margin: 10px;
+}
